@@ -1,0 +1,1 @@
+# django-internship-projects_week2
